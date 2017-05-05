@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdce694a-8a23-4bfe-a52b-bafb4c26b1ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/jQuery/exercise.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/jQuery/jqueryDemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/lib/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/lib/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/todos.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/js/lib/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/js/lib/jquery-3.2.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/todos.css" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/todos.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,21 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebDevBootcamp/todoListProject/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="24" column="89" lean-forward="true" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="89" />
+            <state relative-caret-position="170">
+              <caret line="22" column="65" lean-forward="true" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="todos.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="todos.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/todos.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="93" column="30" lean-forward="false" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,8 +138,8 @@
         <option value="$PROJECT_DIR$/WebDevBootcamp/jQuery/exercise.js" />
         <option value="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/js/todos.js" />
         <option value="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/js/script.js" />
-        <option value="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/todos.css" />
         <option value="$PROJECT_DIR$/WebDevBootcamp/todoListProject/index.html" />
+        <option value="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/todos.css" />
       </list>
     </option>
   </component>
@@ -379,7 +371,7 @@
       <workItem from="1493498297774" duration="678000" />
       <workItem from="1493500389061" duration="7916000" />
       <workItem from="1493757090644" duration="24074000" />
-      <workItem from="1493980604432" duration="11130000" />
+      <workItem from="1493980604432" duration="11985000" />
     </task>
     <task id="LOCAL-00001" summary="Udemy repo">
       <created>1492115410933</created>
@@ -399,7 +391,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113395000" />
+    <option name="totallyTimeSpent" value="114250000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -828,6 +820,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/todoListProject/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="22" column="65" lean-forward="true" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -840,16 +840,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/todos.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="93" column="30" lean-forward="false" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/todoListProject/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="89" lean-forward="true" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="89" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
