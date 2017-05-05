@@ -2,35 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdce694a-8a23-4bfe-a52b-bafb4c26b1ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/ColorToggle/tog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/ColorToggle/toggle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/ColorToggle/toggle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/colorGame.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/colorGame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/colorGame.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/css/score.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/css/toggle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/js/domdemo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/js/scorekeeper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/js/todos2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/domdemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/score.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/todos2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/age.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/age.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/annoy.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/annoy.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/arrraypset.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/arrraypset.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/capitalize.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/capitalize.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/conditionals.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/conditionals.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/guessgame.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/guessgame.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/index.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/jsmethods.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/jsmethods.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/jsstyle.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/jsstyle.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/moviedb.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/moviedb.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/pset.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/pset.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/selector.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/selector.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/selectorspset.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/selectorspset.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/todo.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/todo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebDevBootcamp/Javascript/while.html" afterPath="$PROJECT_DIR$/WebDevBootcamp/Javascript/src/while.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/jQuery/exercise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/jQuery/jqueryDemo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/lib/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/lib/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/todos.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/js/lib/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/js/lib/jquery-3.2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/todoListProject/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -49,55 +29,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="colorGame.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/colorGame.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#h1#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colorGame.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/colorGame.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="106" column="1" lean-forward="true" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!block;n#init#0" expanded="false" />
-                <element signature="n#!!block;n#reset#0" expanded="false" />
-                <element signature="e#2027#2040#0" expanded="false" />
-                <element signature="n#!!block;n#changeColors#0" expanded="false" />
-                <element signature="n#!!block;n#pickColor#0" expanded="false" />
-                <element signature="n#!!block;n#generateRandomColors#0" expanded="false" />
-                <element signature="n#!!block;n#randomColor#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colorGame.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/colorGame.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebDevBootcamp/todoListProject/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+              <caret line="24" column="89" lean-forward="true" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todos.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/todos.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="93" column="30" lean-forward="false" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
               <folding>
-                <element signature="e#5#117#0" expanded="false" />
-                <element signature="e#132#153#0" expanded="false" />
-                <element signature="e#163#203#0" expanded="false" />
-                <element signature="e#211#430#0" expanded="false" />
-                <element signature="e#444#486#0" expanded="false" />
-                <element signature="e#496#712#0" expanded="false" />
-                <element signature="e#725#767#0" expanded="false" />
-                <element signature="e#772#903#0" expanded="false" />
-                <element signature="e#913#987#0" expanded="false" />
-                <element signature="e#999#1041#0" expanded="false" />
+                <element signature="e#0#42#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -108,8 +66,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="HTML base for JS" />
+        <option value="HTML with jQuery" />
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
@@ -120,6 +79,7 @@
       <find>aa</find>
       <find>body</find>
       <find>h1.style.background</find>
+      <find>X</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,12 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Javascript/index.html" />
-        <option value="$PROJECT_DIR$/Javascript/age.html" />
-        <option value="$PROJECT_DIR$/Javascript/age.js" />
-        <option value="$PROJECT_DIR$/Javascript/js/conditionals.html" />
-        <option value="$PROJECT_DIR$/Javascript/conditionals.html" />
-        <option value="$PROJECT_DIR$/Javascript/js/conditionals.js" />
         <option value="$PROJECT_DIR$/Javascript/guessgame.html" />
         <option value="$PROJECT_DIR$/Javascript/js/guessgame.js" />
         <option value="$PROJECT_DIR$/Javascript/while.html" />
@@ -188,6 +142,12 @@
         <option value="$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/colorGame.css" />
         <option value="$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/colorGame.html" />
         <option value="$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/colorGame.js" />
+        <option value="$PROJECT_DIR$/WebDevBootcamp/jQuery/jqueryDemo.html" />
+        <option value="$PROJECT_DIR$/WebDevBootcamp/jQuery/exercise.js" />
+        <option value="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/js/todos.js" />
+        <option value="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/js/script.js" />
+        <option value="$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/todos.css" />
+        <option value="$PROJECT_DIR$/WebDevBootcamp/todoListProject/index.html" />
       </list>
     </option>
   </component>
@@ -273,46 +233,6 @@
               <option name="myItemId" value="WebDevBootcamp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Javascript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Udemy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Udemy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDevBootcamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Javascript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="color_guess" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Udemy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Udemy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDevBootcamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -320,7 +240,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Compressed/alipixel_v10/alipixel" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="HTML&#10;CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -330,11 +250,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AmanB\Desktop\Udemy\WebDevBootcamp\jQuery" />
       <recent name="C:\Users\AmanB\Desktop\Udemy\WebDevBootcamp\Javascript\src" />
       <recent name="C:\Users\AmanB\Desktop\Udemy\WebDevBootcamp" />
       <recent name="C:\Users\AmanB\Desktop\Udemy\htmlsources\" />
       <recent name="C:\Users\AmanB\Desktop\Udemy\Javascript" />
-      <recent name="C:\Users\AmanB\Desktop\Udemy\Javascript\" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -458,7 +378,8 @@
       <workItem from="1493470336580" duration="579000" />
       <workItem from="1493498297774" duration="678000" />
       <workItem from="1493500389061" duration="7916000" />
-      <workItem from="1493757090644" duration="21960000" />
+      <workItem from="1493757090644" duration="24074000" />
+      <workItem from="1493980604432" duration="11130000" />
     </task>
     <task id="LOCAL-00001" summary="Udemy repo">
       <created>1492115410933</created>
@@ -478,7 +399,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100151000" />
+    <option name="totallyTimeSpent" value="113395000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -493,22 +414,22 @@
     <frame x="-7" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32473445" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37025797" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.27314112" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.39908952" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.39908952" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32392028" sideWeight="0.72685885" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3986711" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -558,48 +479,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/js/conditionals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/src/conditionals.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/js/guessgame.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/src/guessgame.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/js/while.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/src/annoy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/js/capitalize.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -731,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -740,7 +618,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="119">
             <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -757,7 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -772,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,7 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -824,9 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -842,7 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -850,7 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -858,7 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="63" lean-forward="false" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -866,9 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -884,38 +748,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/guess.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/styles.css" />
+    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/index.html" />
+    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/guess.js" />
     <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/colorGame.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        <state relative-caret-position="34">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#h1#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -925,26 +767,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/colorGame.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="106" column="1" lean-forward="true" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!block;n#init#0" expanded="false" />
-            <element signature="n#!!block;n#reset#0" expanded="false" />
-            <element signature="e#2027#2040#0" expanded="false" />
-            <element signature="n#!!block;n#changeColors#0" expanded="false" />
-            <element signature="n#!!block;n#pickColor#0" expanded="false" />
-            <element signature="n#!!block;n#generateRandomColors#0" expanded="false" />
-            <element signature="n#!!block;n#randomColor#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/colorGame.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+          <caret line="72" column="1" lean-forward="false" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
           <folding>
             <element signature="e#5#117#0" expanded="false" />
             <element signature="e#132#153#0" expanded="false" />
@@ -957,6 +783,74 @@
             <element signature="e#913#987#0" expanded="false" />
             <element signature="e#999#1041#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/color_guess/colorGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="106" column="1" lean-forward="false" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#init#0" expanded="false" />
+            <element signature="n#!!block;n#reset#0" expanded="false" />
+            <element signature="e#2027#2040#0" expanded="false" />
+            <element signature="n#!!block;n#changeColors#0" expanded="false" />
+            <element signature="n#!!block;n#pickColor#0" expanded="false" />
+            <element signature="n#!!block;n#generateRandomColors#0" expanded="false" />
+            <element signature="n#!!block;n#randomColor#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/jQuery/exercise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/jQuery/jqueryDemo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Javascript/src/annoy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="65" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/todoListProject/assets/css/todos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="93" column="30" lean-forward="false" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDevBootcamp/todoListProject/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="89" lean-forward="true" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="89" />
+          <folding />
         </state>
       </provider>
     </entry>
