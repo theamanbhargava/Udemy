@@ -2,57 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdce694a-8a23-4bfe-a52b-bafb4c26b1ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/bubbles.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/clay.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/confetti.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/corona.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/dotted-spiral.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/flash-1.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/flash-2.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/flash-3.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/glimmer.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/moon.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/pinwheel.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/piston-1.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/piston-2.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/piston-3.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/prism-1.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/prism-2.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/prism-3.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/splits.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/squiggle.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/strike.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/suspension.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/timer.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/ufo.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/veil.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/wipe.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/zig-zag.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/.github/ISSUE_TEMPLATE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/.github/PULL_REQUEST_TEMPLATE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/notNeededPackages.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/scripts/fix-tslint.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/scripts/generate-tsconfigs.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/scripts/not-needed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/scripts/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/types/paper/index.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/types/paper/paper-tests.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DefinitelyTyped-master/types/paper/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/Sounds/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/circles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/circles.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebDevBootcamp/Patatap/paper-full.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Udemy.iml" afterPath="$PROJECT_DIR$/.idea/Udemy.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -74,8 +23,8 @@
       <file leaf-file-name="circles.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Patatap/circles.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="179" column="13" lean-forward="true" selection-start-line="179" selection-start-column="13" selection-end-line="179" selection-end-column="13" />
+            <state relative-caret-position="1495">
+              <caret line="187" column="32" lean-forward="true" selection-start-line="187" selection-start-column="32" selection-end-line="187" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -570,7 +519,7 @@
       <workItem from="1494181997399" duration="662000" />
       <workItem from="1494183284307" duration="496000" />
       <workItem from="1494193939035" duration="1066000" />
-      <workItem from="1494250330597" duration="15492000" />
+      <workItem from="1494250330597" duration="16329000" />
     </task>
     <task id="LOCAL-00001" summary="Udemy repo">
       <created>1492115410933</created>
@@ -590,7 +539,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148978000" />
+    <option name="totallyTimeSpent" value="149815000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -602,17 +551,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24181548" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24181548" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.27314112" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.39908952" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32724252" sideWeight="0.72685885" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32569557" sideWeight="0.72685885" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3986711" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1006,8 +955,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebDevBootcamp/Patatap/circles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="179" column="13" lean-forward="true" selection-start-line="179" selection-start-column="13" selection-end-line="179" selection-end-column="13" />
+        <state relative-caret-position="1495">
+          <caret line="187" column="32" lean-forward="true" selection-start-line="187" selection-start-column="32" selection-end-line="187" selection-end-column="32" />
           <folding />
         </state>
       </provider>
