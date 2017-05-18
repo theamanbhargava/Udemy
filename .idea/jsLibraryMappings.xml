@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{algebra.js-DefinitelyTyped, howler, howler-DefinitelyTyped, jQuery-2.0.0, monk-DefinitelyTyped, paper}" />
+    <file url="PROJECT" libraries="{algebra.js-DefinitelyTyped, body-parser-DefinitelyTyped, ejs-DefinitelyTyped, express-DefinitelyTyped, howler, howler-DefinitelyTyped, jQuery-2.0.0, monk-DefinitelyTyped, paper, request-DefinitelyTyped, requirejs-DefinitelyTyped}" />
     <includedPredefinedLibrary name="WebGL" />
   </component>
 </project>

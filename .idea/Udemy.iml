@@ -15,5 +15,10 @@
     <orderEntry type="library" name="paper" level="application" />
     <orderEntry type="library" name="howler-DefinitelyTyped" level="application" />
     <orderEntry type="library" name="howler" level="application" />
+    <orderEntry type="library" name="express-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="requirejs-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="request-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="body-parser-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="ejs-DefinitelyTyped" level="application" />
   </component>
 </module>
